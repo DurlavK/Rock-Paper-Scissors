@@ -3,11 +3,45 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Rock to spock</title>
+    <link rel="stylesheet" href="//use.fontawesome.com/releases/v5.0.7/css/all.css">
+    <link rel="stylesheet" href="style.css">
+    
 </head>
 <body>
-    Go to Console to
-    <button onclick="game()">Play</button>
+    <div>
+        <header id="header">
+            <h1>Rock Paper Scissors Lizard Spock</h1>
+        </header>
+        <main id="main">
+            <div id="options">
+                <div id="rock"><i id="rock" class="far fa-hand-rock fa-7x"></i></div>
+                <div id="paper"><i id="paper" class="far fa-hand-paper fa-7x"></i></div>
+                <div id="scissors"><i id="scissors" class="far fa-hand-scissors fa-7x"></i></div>
+                <div id="lizard"><i id="lizard" class="far fa-hand-lizard fa-7x"></i></div>
+                <div id="spock"><i id="spock" class="far fa-hand-spock fa-7x"></i></div>
+            </div>
+            <div id="choice">
+                <div id="playerChoice" class="choice">
+                    <p>Player Points- <span id="playerPoints">0</span></p>
+                    <i class="far fa-hand-rock fa-7x"></i>
+                </div>
+                <div id="compChoice" class="choice">
+                    <p>Computer Points- <span id="compPoints">0</span></p>
+                    <i class="far fa-hand-rock fa-7x"></i>
+                </div>
+            </div>
+            <div id="result">
+                
+            </div>
+            <div id="reset-modal">
+                <div id="reset">                   
+                    <p id="reset-text">You cheeky bugger</p>
+                    <button id="close">Play again</button>
+                </div>          
+            </div>
+        </main>
+    </div>
     <script src="script.js"></script>
 </body>
 </html>
