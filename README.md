@@ -1,7 +1,7 @@
 # Rock Papers Scissors
 ## with lizard and spock 
 
-## Preview- https://durlavk.github.io/Rock-Paper-Scissors/
+### Preview- https://durlavk.github.io/Rock-Paper-Scissors/
 
 ### Used-
 - html
@@ -12,6 +12,6 @@
 - Use object or class.
 - Add comments.
 - Add new features
-  - choose game mood
+  - choose game mode
   - multiplayer
 - Add more css
