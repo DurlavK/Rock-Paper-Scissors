@@ -5,16 +5,17 @@
 }
 
 body {
-  background-image: url(
+  /* background-image: url(
     "data:image/jpeg;base64,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"
-   );
+   ); */
+   background-color: #7ab1ca;
 }
 
 #header {
   margin-top: 10px;
   text-align: center;
   padding: 10px;
-  margin-bottom: 50px;
+  margin-bottom: 25px;
   margin-left: 15vw;
   margin-right: 15vw;
 }
@@ -32,22 +33,53 @@ body {
   border-radius: 5px;
 }
 
-#main #options .far {
+#main #options .option {
   padding: 20px;
+  border: 2px solid #667272;
+  cursor: pointer;
+}
+
+#main #options .option span {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 1.5em;
+  padding-top: 1em;
 }
 
 #main #choice {
-  
-  margin: auto;
+  /* margin: auto; */
   display: flex;
+  justify-content: space-around;
   margin-bottom: 10px;
   padding: 20px;
 }
 
 .choice {
-  background-color: rgb(37, 41, 41);  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: rgba( 255, 255, 255, 0.25 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 4px );
+  -webkit-backdrop-filter: blur( 4px );
+  border-radius: 10px;
   padding: 20px 30px 10px 30px;
-  color: rgb(190, 215, 236);
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+.choice p {
+  font-size: 2em;
+}
+
+#playerChoice i {
+  color: blue;
+  padding-bottom: 10px;
+}
+
+#compChoice i {
+  color: red;
+  padding-bottom: 10px;
 }
 
 #result {
@@ -71,14 +103,21 @@ body {
   border-radius: 5px;
   text-align: center;
   background-color: #667272;
-  margin: 20% auto; /* 15% from the top and centered */
+  margin: 15% auto; /* 15% from the top and centered */
   padding: 20px;
   border: 1px solid #888;
-  height: 20%;
-  width: 50%; /* Could be more or less, depending on screen size */
+  height: 30%;
+  width: 75%; /* Could be more or less, depending on screen size */
 }
 
 #reset-text {
   position: relative;
   margin-bottom: 20px;
+  font-size: 2em;
+}
+
+#close {
+  padding: .5em 1em;
+  border-radius: 5px;
+  cursor: pointer;
 }
