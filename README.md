@@ -25,7 +25,7 @@
 </p>
 
 <div align="center">
-![preview](https://raw.githubusercontent.com/durlavk98/Rock-Paper-Scissors/main/images/rock-paper-scissors.gif)
+<img src="https://raw.githubusercontent.com/durlavk98/Rock-Paper-Scissors/main/images/rock-paper-scissors.gif"/>
 </div>
 
 ## About
