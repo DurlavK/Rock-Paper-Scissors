@@ -24,8 +24,9 @@
   <a href="#related">Related</a> •
 </p>
 
-
+<div align="center">
 ![preview](https://raw.githubusercontent.com/durlavk98/Rock-Paper-Scissors/main/images/rock-paper-scissors.gif)
+</div>
 
 ## About
 The classic rock paper scissors game with lizard and spock. It has been built using html, css and javascript.
